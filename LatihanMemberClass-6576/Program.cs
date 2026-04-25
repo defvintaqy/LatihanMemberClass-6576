@@ -1,4 +1,5 @@
-﻿using LatihanMemberClass_6576;
+//25.11.6576
+using LatihanMemberClass_6576;
 
 class Program
 {
